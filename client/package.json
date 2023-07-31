@@ -10,6 +10,7 @@
     "axios": "^1.4.0",
     "draft-js": "^0.11.7",
     "draftjs-to-html": "^0.9.1",
+    "immutable": "^4.3.1",
     "moment": "^2.29.4",
     "node-polyfill-webpack-plugin": "^2.0.1",
     "react": "^18.2.0",
